@@ -1,4 +1,4 @@
-import ApiClient from "api-reach";
+import ApiClient from "api-reach/dist";
 import mapValues, { REMOVE } from "bottom-line-utils/mapValues";
 
 class AbuseIPDB {

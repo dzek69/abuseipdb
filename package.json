@@ -1,6 +1,6 @@
 {
   "name": "abuseipdb",
-  "version": "0.0.1-beta.1",
+  "version": "0.0.1-beta.2",
   "main": "src/index.js",
   "repository": "https://github.com/dzek69/abuseipdb.git",
   "author": "Jacek Nowacki",
