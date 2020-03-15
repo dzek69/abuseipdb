@@ -5,5 +5,5 @@ import AbuseIPDB from "abuseipdb";
 
 CommonJS:
 ```javascript
-const AbuseIPDB = require("abuseipdb/dist");
+const AbuseIPDB = require("abuseipdb");
 ```
