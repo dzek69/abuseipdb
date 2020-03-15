@@ -1,5 +1,6 @@
-import ApiClient from "api-reach/dist";
-import mapValues, { REMOVE } from "bottom-line-utils/mapValues";
+import ApiClient from "api-reach";
+import { mapValues } from "bottom-line-utils";
+const { REMOVE } = mapValues;
 
 class AbuseIPDB {
     /**

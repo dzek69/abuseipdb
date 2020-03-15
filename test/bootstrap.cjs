@@ -1,8 +1,6 @@
-"use strict";
-
 require("@babel/polyfill");
 require("@babel/register")({
-    extends: "./.babelrc",
+    extends: "./.babelrc.cjs",
     ignore: [],
 });
 const must = require("must/register");
