@@ -42,7 +42,7 @@
   "dependencies": {
     "api-reach": "^0.7.0",
     "bottom-line-utils": "^0.8.0",
-    "node-fetch": "^3.0.0-beta.4"
+    "node-fetch": "^3.1.1"
   },
   "husky": {
     "hooks": {
